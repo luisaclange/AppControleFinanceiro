@@ -1,0 +1,18 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.ControleFinanceiro" parent="Theme.Material3.Dark">
+        <!-- Customize your dark theme here. -->
+        <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+        <item name="android:statusBarColor">@color/statusBarDark</item>
+        <item name="android:windowLightStatusBar">false</item>
+
+        <item name="fontFamily">@font/montserrat</item>
+
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryVariant">@color/secondary</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="iconColor">@color/secondary</item>
+    </style>
+
+    <color name="detachColor">@color/detachColorDark</color>
+</resources>

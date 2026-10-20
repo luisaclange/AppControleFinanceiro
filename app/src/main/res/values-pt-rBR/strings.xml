@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Controle Financeiro</string>
+
+    <string name="title_nova_movimentacao">Nova movimentação</string>
+    <string name="title_sobre">Sobre</string>
+    <string name="title_movimentacoes">Movimentações</string>
+    <string name="title_editar_movimentacao">Editar movimentação</string>
+    <string name="title_nova_conta">Nova conta</string>
+    <string name="title_editar_conta">Editar conta</string>
+    <string name="title_contas">Contas bancárias</string>
+
+    <string name="label_descricao">Descrição</string>
+    <string name="label_data">Data</string>
+    <string name="label_valor">Valor</string>
+    <string name="label_conta">Conta</string>
+    <string name="label_tipo">Tipo</string>
+    <string name="label_entrada">Entrada</string>
+    <string name="label_saida">Saída</string>
+    <string name="label_categoria">Categoria</string>
+    <string name="label_fixo">Fixo</string>
+    <string name="label_movimentacao_fixa">Movimentação fixa</string>
+    <string name="label_movimentacao_nao_fixa">Movimentação não fixa</string>
+    <string name="label_banco">Banco</string>
+    <string name="label_tipo_de_conta">Tipo de conta</string>
+    <string name="label_valor_maximo_de_gasto_mensal">Valor máximo de gasto mensal (opcional)</string>
+    <string name="label_limite_de_credito">Limite de crédito (opcional)</string>
+    <string name="label_autoria">Autoria</string>
+    <string name="label_nao_informado">Não informado</string>
+
+    <string name="hint_descricao">Descrição da movimentação</string>
+    <string name="hint_data">00/00/00</string>
+    <string name="hint_valor">0,00</string>
+    <string name="hint_nome_do_banco">Nome do banco</string>
+
+    <string name="button_limpar">Limpar</string>
+    <string name="button_salvar">Salvar</string>
+    <string name="button_voltar">Voltar</string>
+    <string name="button_sobre">Sobre</string>
+    <string name="button_nova_movimentacao">Adicionar</string>
+    <string name="button_editar">Editar</string>
+    <string name="button_excluir">Excluir</string>
+    <string name="button_ordenacao">Ordenação</string>
+    <string name="button_restaurar_padroes">Restaurar padrões</string>
+    <string name="button_contas">Contas</string>
+
+    <string name="message_as_entradas_foram_apagadas">As entradas foram apagadas!</string>
+    <string name="message_voce_deve_informar_a_descricao">Você deve informar a descrição!</string>
+    <string name="message_voce_deve_informar_a_data">Você deve informar a data!</string>
+    <string name="message_a_data_deve_ser_valida">A data deve ser válida!</string>
+    <string name="message_voce_deve_informar_o_valor">Você deve informar o valor!</string>
+    <string name="message_valor_deve_ser_um_numero_valido">Valor deve ser um número positivo válido!</string>
+    <string name="message_selecione_o_tipo">Selecione o tipo de movimentação!</string>
+    <string name="message_o_spinner_conta_nao_possui_valores">O spinner conta não possui valores!</string>
+    <string name="message_o_spinner_categoria_nao_possui_valores">O spinner categoria não possui valores!</string>
+    <string name="message_voce_deve_informar_o_nome_do_banco">Você deve informar o nome do banco!</string>
+    <string name="message_valor_maximo_deve_ser_um_numero_positivo_valido">Valor máximo deve ser um número positivo válido!</string>
+    <string name="message_limite_de_credito_deve_ser_um_numero_positivo_valido">Limite de cŕedito deve ser um número positivo válido!</string>
+    <string name="message_movimentacao">Movimentação</string>
+    <string name="message_recebeu_clique_longo">recebeu clique longo.</string>
+    <string name="message_foi_clicado">foi clicado.</string>
+    <string name="message_nao_ha_aplicativos_envio_email">Não há aplicativos disponíveis para envio de e-mail</string>
+    <string name="message_nao_ha_aplicativos_abrir_site">Não há aplicativos disponíveis para abrir esse site.</string>
+    <string name="message_as_configuracoes_voltaram_para_o_padrao_de_instalação">As configurações voltaram para o padrão de instalação!</string>
+    <string name="message_erro_ao_inserir_movimentacao">Ocorreu um erro ao inserir a nova movimentação</string>
+    <string name="message_erro_ao_tentar_alterar">Ocorreu um erro ao tentar alterar a movimentacao</string>
+    <string name="message_erro_ao_tentar_excluir">Ocorreu um erro ao tentar excluir o item</string>
+    <string name="message_deseja_apagar">Você deseja apagar este item?\n\"%1$s\"</string>
+    <string name="message_erro_ao_inserir_conta">Erro ao adicionar conta.</string>
+    <string name="message_erro_ao_tentar_alterar_conta">Ocorreu um erro ao tentar alterar conta.</string>
+    <string name="message_voce_ainda_nao_possui_nenhuma_movimentacao">Você ainda não possui nenhuma movimentação cadastrada.\n\n Crie uma agora mesmo!</string>
+    <string name="message_voce_ainda_nao_possui_nenhuma_conta">Você ainda não possui nenhuma conta bancária cadastrada.\n\n Crie uma agora mesmo!</string>
+    <string name="message_voce_precisa_criar_uma_conta">Você precisa criar no mínimo uma conta bancária para realizar esta ação</string>
+
+    <string name="option_categoria_alimentacao">Alimentação</string>
+    <string name="option_categoria_saude">Saúde</string>
+    <string name="option_categoria_estilo_vida">Estilo de vida</string>
+    <string name="option_categoria_educacao">Educação</string>
+    <string name="option_categoria_transporte">Transporte</string>
+    <string name="option_categoria_casa">Casa</string>
+    <string name="option_categoria_outro">Outro</string>
+
+    <string name="option_tipo_conta_credito">Crédito</string>
+    <string name="option_tipo_conta_poupanca">Poupança</string>
+    <string name="option_tipo_conta_corrente">Corrente</string>
+
+    <string name="prefix_current">R$</string>
+    <string name="current_year">2026</string>
+    <string name="date_format">dd/MM/yyyy</string>
+
+    <string name="name_utfpr">Universidade Tecnológica Federal do Paraná - UTFPR</string>
+    <string name="name_curso">Curso de pós-graduação em Tecnologia Java</string>
+
+    <string name="author_email">luisalange@alunos.utfpr.edu.br</string>
+    <string name="author_nome">Luisa Carine Lange</string>
+
+    <string name="description_1">Este aplicativo foi criado para auxiliar no controle de suas finanças, permitindo o cadastro de movimentações financeiras e contribuindo para um melhor planejamento financeiro.</string>
+    <string name="description_2">O projeto foi desenvolvido durante as aulas da disciplina de Desenvolvimento Java para Dispositivos Móveis, do curso de Pós-Graduação em Tecnologia Java da Universidade Tecnológica Federal do Paraná (UTFPR), campus Cornélio Procópio.</string>
+
+
+    <string name="email_assunto">Controle financeiro - contato pelo aplicativo</string>
+</resources>

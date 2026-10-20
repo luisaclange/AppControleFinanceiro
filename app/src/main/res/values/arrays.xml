@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="categorias">
+        <item>@string/option_categoria_alimentacao</item>
+        <item>@string/option_categoria_saude</item>
+        <item>@string/option_categoria_estilo_vida</item>
+        <item>@string/option_categoria_educacao</item>
+        <item>@string/option_categoria_transporte</item>
+        <item>@string/option_categoria_casa</item>
+        <item>@string/option_categoria_outro</item>
+    </string-array>
+
+    <string-array name="tipoContas">
+        <item>@string/option_tipo_conta_corrente</item>
+        <item>@string/option_tipo_conta_credito</item>
+        <item>@string/option_tipo_conta_poupanca</item>
+    </string-array>
+
+    <string-array name="movimentacoes_descricoes">
+        <item>Remédio para resfriado</item>
+        <item>Conta de internet</item>
+        <item>Devolução do empréstimo ao Sr. Nogueira</item>
+        <item>Compras do mercado</item>
+        <item>Consulta veterinário</item>
+        <item>Tênis de corrida</item>
+        <item>Ingresso cinema</item>
+        <item>Gasolina</item>
+        <item>Recebimento do salário</item>
+        <item>Material escolar</item>
+    </string-array>
+
+    <string-array name="movimentacoes_valores">
+        <item>20</item>
+        <item>100</item>
+        <item>400</item>
+        <item>87.6</item>
+        <item>250</item>
+        <item>189.99</item>
+        <item>20</item>
+        <item>250</item>
+        <item>4230.78</item>
+        <item>113.7</item>
+    </string-array>
+
+    <integer-array name="movimentacoes_tipos">
+        <item>1</item>
+        <item>1</item>
+        <item>0</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>0</item>
+        <item>1</item>
+    </integer-array>
+
+    <integer-array name="movimentacoes_categorias">
+        <item>1</item>
+        <item>5</item>
+        <item>6</item>
+        <item>0</item>
+        <item>5</item>
+        <item>2</item>
+        <item>2</item>
+        <item>4</item>
+        <item>6</item>
+        <item>3</item>
+    </integer-array>
+
+    <integer-array name="movimentacoes_contas">
+        <item>2</item>
+        <item>3</item>
+        <item>0</item>
+        <item>2</item>
+        <item>1</item>
+        <item>1</item>
+        <item>0</item>
+        <item>3</item>
+        <item>0</item>
+        <item>3</item>
+    </integer-array>
+
+    <integer-array name="movimentacoes_fixo">
+        <item>0</item>
+        <item>1</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>1</item>
+        <item>0</item>
+    </integer-array>
+
+    <string-array name="movimentacoes_datas">
+        <item>03/08/2026</item>
+        <item>05/08/2026</item>
+        <item>11/08/2026</item>
+        <item>15/08/2026</item>
+        <item>09/08/2026</item>
+        <item>09/08/2026</item>
+        <item>07/08/2026</item>
+        <item>12/08/2026</item>
+        <item>07/08/2026</item>
+        <item>02/08/2026</item>
+    </string-array>
+</resources>

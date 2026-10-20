@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Financial Management</string>
+
+    <string name="title_nova_movimentacao">New Transaction</string>
+    <string name="title_sobre">About</string>
+    <string name="title_movimentacoes">Transactions</string>
+    <string name="title_editar_movimentacao">Edit Transaction</string>
+    <string name="title_nova_conta">New Account</string>
+    <string name="title_editar_conta">Edit Account</string>
+    <string name="title_contas">Bank Accounts</string>
+
+    <string name="label_descricao">Description</string>
+    <string name="label_data">Date</string>
+    <string name="label_valor">Amount</string>
+    <string name="label_conta">Account</string>
+    <string name="label_tipo">Type</string>
+    <string name="label_entrada">Income</string>
+    <string name="label_saida">Expense</string>
+    <string name="label_categoria">Category</string>
+    <string name="label_fixo">Fixed</string>
+    <string name="label_movimentacao_fixa">Fixed Transaction</string>
+    <string name="label_movimentacao_nao_fixa">Non-Fixed Transaction</string>
+    <string name="label_banco">Bank</string>
+    <string name="label_tipo_de_conta">Account Type</string>
+    <string name="label_valor_maximo_de_gasto_mensal">Maximum Monthly Spending (optional)</string>
+    <string name="label_limite_de_credito">Credit Limit (optional)</string>
+    <string name="label_autoria">Author</string>
+    <string name="label_nao_informado">Not Specified</string>
+
+    <string name="hint_descricao">Transaction description</string>
+    <string name="hint_data">00/00/00</string>
+    <string name="hint_valor">0.00</string>
+    <string name="hint_nome_do_banco">Bank name</string>
+
+    <string name="button_limpar">Clear</string>
+    <string name="button_salvar">Save</string>
+    <string name="button_voltar">Back</string>
+    <string name="button_sobre">About</string>
+    <string name="button_nova_movimentacao">Add</string>
+    <string name="button_editar">Edit</string>
+    <string name="button_excluir">Delete</string>
+    <string name="button_ordenacao">Ordering</string>
+    <string name="button_restaurar_padroes">Restore defaults</string>
+    <string name="button_contas">Accounts</string>
+
+    <string name="message_as_entradas_foram_apagadas">The transactions were deleted!</string>
+    <string name="message_voce_deve_informar_a_descricao">You must enter a description!</string>
+    <string name="message_voce_deve_informar_a_data">You must enter a date!</string>
+    <string name="message_a_data_deve_ser_valida">The date must be valid!</string>
+    <string name="message_voce_deve_informar_o_valor">You must enter an amount!</string>
+    <string name="message_valor_deve_ser_um_numero_valido">The amount must be a valid positive number!</string>
+    <string name="message_selecione_o_tipo">Select the transaction type!</string>
+    <string name="message_o_spinner_conta_nao_possui_valores">The account list has no available options!</string>
+    <string name="message_o_spinner_categoria_nao_possui_valores">The category list has no available options!</string>
+    <string name="message_voce_deve_informar_o_nome_do_banco">You must enter the bank name!</string>
+    <string name="message_valor_maximo_deve_ser_um_numero_positivo_valido">The maximum amount must be a valid positive number!</string>
+    <string name="message_limite_de_credito_deve_ser_um_numero_positivo_valido">The credit limit must be a valid positive number!</string>
+    <string name="message_movimentacao">Transaction</string>
+    <string name="message_recebeu_clique_longo">received a long click.</string>
+    <string name="message_foi_clicado">was clicked.</string>
+    <string name="message_nao_ha_aplicativos_envio_email">No email applications are available.</string>
+    <string name="message_nao_ha_aplicativos_abrir_site">No applications are available to open this website.</string>
+    <string name="message_as_configuracoes_voltaram_para_o_padrao_de_instalação">The settings have returned to the installation default!</string>
+    <string name="message_erro_ao_inserir_movimentacao">An error occurred while adding the new transaction.</string>
+    <string name="message_erro_ao_tentar_alterar">An error occurred while trying to update the transaction.</string>
+    <string name="message_erro_ao_tentar_excluir">An error occurred while trying to delete the item.</string>
+    <string name="message_deseja_apagar">Do you want to delete?\n\"%1$s\"</string>
+    <string name="message_erro_ao_inserir_conta">Error adding account.</string>
+    <string name="message_erro_ao_tentar_alterar_conta">An error occurred while trying to update the account.</string>
+    <string name="message_voce_ainda_nao_possui_nenhuma_movimentacao">You don\'t have any transactions registered yet.\n\nCreate one now!</string>
+    <string name="message_voce_ainda_nao_possui_nenhuma_conta">You don\'t have any bank accounts registered yet.\n\nCreate one now!</string>
+    <string name="message_voce_precisa_criar_uma_conta">You need to create at least one bank account to perform this action.</string>
+
+    <string name="option_categoria_alimentacao">Food</string>
+    <string name="option_categoria_saude">Health</string>
+    <string name="option_categoria_estilo_vida">Lifestyle</string>
+    <string name="option_categoria_educacao">Education</string>
+    <string name="option_categoria_transporte">Transportation</string>
+    <string name="option_categoria_casa">Home</string>
+    <string name="option_categoria_outro">Other</string>
+
+    <string name="option_tipo_conta_credito">Credit</string>
+    <string name="option_tipo_conta_poupanca">Savings</string>
+    <string name="option_tipo_conta_corrente">Checking</string>
+
+    <string name="prefix_current">$</string>
+    <string name="current_year">2026</string>
+    <string name="date_format">yyyy-MM-dd</string>
+
+    <string name="name_utfpr">Federal University of Technology - Paraná - UTFPR</string>
+    <string name="name_curso">Postgraduate Program in Java Technology</string>
+
+    <string name="author_email">luisalange@alunos.utfpr.edu.br</string>
+    <string name="author_nome">Luisa Carine Lange</string>
+
+    <string name="description_1">This application was created to help you manage your finances by allowing you to record financial transactions and supporting better financial planning.</string>
+    <string name="description_2">This project was developed as part of the Java Development for Mobile Devices course in the Postgraduate Program in Java Technology at the Federal University of Technology - Paraná (UTFPR), Cornélio Procópio campus.</string>
+
+    <string name="email_assunto">Financial Management - Contact via App</string>
+
+
+</resources>

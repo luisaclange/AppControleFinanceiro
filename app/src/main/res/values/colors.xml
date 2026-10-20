@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="entrada">#1F952C</color>
+    <color name="saida">#B31E1E</color>
+    <color name="primary">#1A624B</color>
+    <color name="secondary">#89d957</color>
+    <color name="statusBarLight">#edeff0</color>
+    <color name="statusBarDark">#1c2123</color>
+    <color name="detachColorLight">#6689D957</color>
+    <color name="detachColorDark">#1AEDEFF0</color>
+</resources>

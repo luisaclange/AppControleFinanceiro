@@ -1,0 +1,20 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.ControleFinanceiro" parent="Theme.Material3.Light">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="android:statusBarColor">@color/statusBarLight</item>
+        <item name="android:windowLightStatusBar">true</item>
+
+        <item name="fontFamily">@font/montserrat</item>
+
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryVariant">@color/secondary</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="iconColor">@color/primary</item>
+    </style>
+
+    <color name="detachColor">@color/detachColorLight</color>
+
+    <style name="Theme.ControleFinanceiro" parent="Base.Theme.ControleFinanceiro" />
+</resources>
